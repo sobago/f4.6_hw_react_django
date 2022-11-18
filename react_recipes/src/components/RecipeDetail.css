@@ -1,0 +1,14 @@
+.recipe_detail {
+    margin: 2px;
+    padding: 5px;
+}
+
+.recipe_detail .rec_name,
+.recipe_detail .rec_composition,
+.recipe_detail .rec_description {
+    padding-bottom: 10px;
+}
+
+.recipe_detail .rec_composition {
+    font-style: italic;
+}
